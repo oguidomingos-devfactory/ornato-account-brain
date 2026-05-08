@@ -1,0 +1,41 @@
+# Account-Brain Config — Ornato Estúdio (Hanna Tattoo)
+# Auto-generated 2026-05-08T05:59:08Z
+
+cliente:
+  nome: "Ornato Estúdio (Hanna Tattoo)"
+  slug: "ornato"
+  inicio: ""
+  plano: ""
+  valor_mensal: ""
+  status: "ativo"
+  contato:
+    nome: ""
+    telefone: ""
+    email: ""
+
+sistemas:
+  crm:
+    plataforma: ""
+    link: ""
+    pipeline_id: ""
+  ads:
+    google_ads:
+      account_id: ""
+      link: ""
+    meta_ads:
+      account_id: ""
+      link: ""
+  analytics:
+    ga4_property: ""
+    link: ""
+  site:
+    url: ""
+    hosting: ""
+    repo: ""
+  whatsapp:
+    numero: ""
+    plataforma: ""
+
+drive:
+  pasta_raiz: ""
+  pasta_id: ""
