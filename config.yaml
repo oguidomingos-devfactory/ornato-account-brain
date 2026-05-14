@@ -4,6 +4,9 @@
 cliente:
   nome: "Ornato Estúdio (Hanna Tattoo)"
   slug: "ornato"
+  keywords:
+    - "Ornato"
+    - "Ornato Estúdio"
   inicio: ""
   plano: ""
   valor_mensal: ""
