@@ -12,3 +12,4 @@
 | 2026-05-16 23:30 UTC | DES-307 sync | Ornato: Atualizar fotos do site com Drive auditado pela tatuadora [done] |
 | 2026-05-16 23:30 UTC | DES-423 sync | Infra: Criar repos GitHub para account-brains sem remote (dr-luiz, dr-rodrigo, rafael-rocha, hanna, ornato, florizz) [done] |
 | 2026-05-16 23:30 UTC | DES-11 sync | Hanna: Scripts de atendimento + automação WhatsApp — Hanna Ornato [done] |
+| 2026-05-16 23:55 UTC | DES-307 | criado | Ornato: Atualizar fotos do site com Drive auditado pela tatuadora |
