@@ -1,5 +1,5 @@
-# Account-Brain Config — Ornato Estúdio
-# Auto-generated 2026-05-08T05:59:08Z
+# Account-Brain Config — Ornato Estúdio (Hanna Tattoo)
+# Ornato Estúdio = estúdio de tatuagem. Hanna = artista. Mesmo cliente.
 
 cliente:
   nome: "Ornato Estúdio"
@@ -7,6 +7,8 @@ cliente:
   keywords:
     - "Ornato"
     - "Ornato Estúdio"
+    - "Hanna"
+    - "Hanna Tattoo"
   inicio: ""
   plano: ""
   valor_mensal: ""
