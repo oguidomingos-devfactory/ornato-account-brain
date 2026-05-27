@@ -25,8 +25,8 @@ Se o texto não é legível quando a imagem aparece no feed do Instagram (sem da
 
 ## Arquivos
 
-Os assets atuais estão organizados no [Drive da Hanna](https://drive.google.com/drive/folders/1sI0r6k5k59H_jiGN4Aca3lLHqjioJGX8):
-- [02 — Posts Feed Instagram](https://drive.google.com/drive/folders/1D8gUTgAONdvhKECD0FcL7Av50fcumKs-) (22 arquivos)
-- [03 — Criativos Meta Ads](https://drive.google.com/drive/folders/12POU3VYruzDrO8PLzIcfWP5qHjQm2xF9) (10 arquivos)
+Os assets atuais estão organizados no [Drive da Hanna](https://drive.google.com/drive/folders/1uHDCP0hlhLnPjaLWwuhjMUOReSsRvGK9):
+- [02 — Posts Feed Instagram](https://drive.google.com/drive/folders/1uHDCP0hlhLnPjaLWwuhjMUOReSsRvGK9) (22 arquivos)
+- [03 — Criativos Meta Ads](https://drive.google.com/drive/folders/1uHDCP0hlhLnPjaLWwuhjMUOReSsRvGK9) (10 arquivos)
 
 Substituir os arquivos existentes com as versões re
