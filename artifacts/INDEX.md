@@ -12,3 +12,4 @@
 ## GitHub
 
 - Account brain: github.com/oguidomingos-devfactory/hanna-account-brain
+| 2026-05-28 | content | [legendas-meta-hanna-dez2026.md](content/2026-05-28-legendas-meta-hanna-dez2026.md) | https://drive.google.com/file/d/1XXIsLxE512YLbdwqN46Yg3aS7jmJBh2t/view?usp=drivesdk |
