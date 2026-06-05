@@ -21,3 +21,4 @@
 | 2026-06-05 12:30 UTC | DES-423 sync | Infra: Criar repos GitHub para account-brains sem remote (dr-luiz, dr-rodrigo, rafael-rocha, hanna, ornato, florizz) [done] |
 | 2026-06-05 12:30 UTC | DES-285 sync | Hanna: Rodar o novo onboarding padrão da Pulso para essa cliente [done] |
 | 2026-06-05 12:30 UTC | DES-361 sync | Hanna: Refaça o onboarding, crie uma nova tarefa separada dessa aqui, use a referencia la da proposta visual da hanna, use os assets de transcricao das reunioes e faça o onboarding base pra gente, com os previews de LP, MIV basico, e alguns posts pra gerar vontade de fechar [done] |
+| 2026-06-05 12:41 UTC | DES-2 | atualizado | Hanna: Pesquisar sobre marketing para tatuadores e fazer a oferta matadora pra Hanna |
